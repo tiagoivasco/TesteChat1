@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_novo"
+        android:title="Novo"
+        android:icon="@drawable/ic_novo"
+        app:showAsAction="always">
+    </item>
+
+    <item android:id="@+id/menu_editar"
+        android:title="Editar"
+        android:icon="@drawable/ic_editar"
+        app:showAsAction="always">
+    </item>
+
+    <item android:id="@+id/menu_deleta"
+        android:title="Deletar"
+        android:icon="@drawable/ic_deleta"
+        app:showAsAction="always">
+    </item>
+
+</menu>

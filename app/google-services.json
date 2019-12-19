@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739682666969",
+    "firebase_url": "https://testechat1-e5c60.firebaseio.com",
+    "project_id": "testechat1-e5c60",
+    "storage_bucket": "testechat1-e5c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739682666969:android:526b13c94e06b0a7e831c8",
+        "android_client_info": {
+          "package_name": "com.ivasco.testechat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739682666969-33p440blm88tc2suv8d33ntha0756j79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivasco.testechat1",
+            "certificate_hash": "92ddd84bd02914ca6e5b25a224dab51cdc3bbe17"
+          }
+        },
+        {
+          "client_id": "739682666969-5j81o9f89g3nvpt9372une717hqf5oac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAa9vjheQRrYrP2Ew0OLFZeNogzU_j0uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739682666969-5j81o9f89g3nvpt9372une717hqf5oac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
